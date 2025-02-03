@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Meal from "../meal";
 
 const Navbar = () => {
   const [inputData, setInputData] = useState(" ");
